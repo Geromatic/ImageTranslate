@@ -28,13 +28,13 @@ namespace ImageToText
         public bool regionDrawn
         {
             get { return _regionDrawn; }
-            set { _regionDrawn = value; }
+            private set { _regionDrawn = value; }
         }
 
         public Rectangle boundsRect
         {
             get { return _boundsRect; }
-            set { _boundsRect = value; }
+            private set { _boundsRect = value; }
         }
         #endregion
 
@@ -98,6 +98,7 @@ namespace ImageToText
 
                 regionDrawn = true;
 
+                // TODO bug occurs if you keep moving mouse
             }
         }
 
@@ -108,6 +109,7 @@ namespace ImageToText
 
         private void frmCapture_Load(System.Object sender, System.EventArgs e)
         {
+            // Copy the desktop for capturing screen
             this.Bounds = Screen.PrimaryScreen.Bounds;
             img2 = new Bitmap(this.Bounds.Width, this.Bounds.Height);
             Graphics gr = Graphics.FromImage(img2);

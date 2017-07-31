@@ -53,6 +53,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.rchResult.Location = new System.Drawing.Point(12, 99);
             this.rchResult.Name = "rchResult";
+            this.rchResult.ReadOnly = true;
             this.rchResult.Size = new System.Drawing.Size(372, 150);
             this.rchResult.TabIndex = 0;
             this.rchResult.Text = "";
@@ -181,9 +182,9 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(290, 58);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(89, 13);
+            this.label6.Size = new System.Drawing.Size(54, 13);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Clipboard(Image):";
+            this.label6.Text = "Clipboard:";
             // 
             // lblClipboard
             // 

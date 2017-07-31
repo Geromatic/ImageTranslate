@@ -1,4 +1,3 @@
-D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\Image2Text.exe.config
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\x64\liblept172.dll
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\x64\libtesseract304.dll
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\x64\tesseract.exe
@@ -6,6 +5,7 @@ D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\x86\liblept172.d
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\x86\libtesseract304.dll
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\x86\tesseract.exe
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\install.ps1
+D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\Image2Text.exe.config
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\Image2Text.exe
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\Image2Text.pdb
 D:\Portfolio\ImageTranslate\Image2Text\Image2Text\bin\x86\Debug\StringParser.dll

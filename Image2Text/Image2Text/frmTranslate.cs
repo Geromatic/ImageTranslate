@@ -145,7 +145,7 @@ namespace ImageToText
         private void frmTranslate_Load(object sender, EventArgs e)
         {
 
-            // Register a print screen hotkey
+            // Register a custom print screen hotkey
             RegisterHotKey(this.Handle, 0, 0, VK_F4);
 
             initLanuagePack();
