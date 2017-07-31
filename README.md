@@ -4,8 +4,9 @@ A Image-To-Text translator
 This was a personal projec.  I wanted to read like Japanese mangas or play Visual Novels that I could not understand.
 So I came up with a idea of 'Wouldn't it be wonderful to translate anything on my screen'...  So this is the result and works wonderful.
 
-shortcut keys:
-F4 = allows user to capture a particular image (basically a built in snipping tool).
+shortcut keys:</br>
+F4 = allows user to capture a particular image (basically a built in snipping tool).</br>
+F4 again to finish "snipping"
 
 YOu can translate form a image file(default when you click the load button) or from clipboard (ex, Ctrl+C/Copy Image/Prt Scrn/F4)
 
