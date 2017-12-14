@@ -13,3 +13,5 @@ YOu can translate form a image file(default when you click the load button) or f
 This uses Googles&#169; Tesseract Library.  This app can translate 50 languages atm.
 
 Last Note:  I have Google Translator implemented.  It is disabled by default.  It used to work but google may have changed the web link/access key
+
+Note: If there are compile issues then run build.bat in tesseract folder
